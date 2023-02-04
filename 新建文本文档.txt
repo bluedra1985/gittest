@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdfdsfsdfs
 sdfdsf
 sdfsdf
@@ -13,3 +14,15 @@ pppppppppppp
 pppppppppppp
 
 pppppppppppp
+=======
+
+kkkk
+
+123123
+123213
+123123
+
+666
+666
+
+>>>>>>> main
