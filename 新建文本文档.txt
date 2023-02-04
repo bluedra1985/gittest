@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 kkkk
 
@@ -7,4 +8,24 @@ kkkk
 
 666
 666
+
+=======
+sdfdsfsdfs
+sdfdsf
+sdfsdf
+
+pppppppppppp
+
+
+pppppppppppp
+
+
+pppppppppppp
+
+pppppppppppp
+
+pppppppppppp
+>>>>>>> dev
+
+140.82.112.4
 
