@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+kkkk
+
+123123
+123213
+123123
+
+666
+666
+
+=======
+=======
+>>>>>>> 82fffbe4bb037829c556eacd9dfac7cfaf0a083b
+sdfdsfsdfs
+sdfdsf
+sdfsdf
+
+pppppppppppp
+
+
+pppppppppppp
+
+
+pppppppppppp
+
+pppppppppppp
+
+pppppppppppp
+<<<<<<< HEAD
+>>>>>>> dev
+
+140.82.112.4
+
+=======
+=======
+
+kkkk
+
+123123
+123213
+123123
+
+666
+666
+
+>>>>>>> main
+>>>>>>> 82fffbe4bb037829c556eacd9dfac7cfaf0a083b
